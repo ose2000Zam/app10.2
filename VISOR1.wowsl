@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>23</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>VISOR1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>blast</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/contour/</ImageTemplate>
+            <ImageTemplateName>Contour</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/dam/tercer parcil/app10/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/dam/tercer parcil/app10</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Archivo Narrow</TemplateFont>
+            <TemplateName>contour</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/dam/tercer parcil/app10/imagenes/visor6.jpg</url>
+                <filesize>8962</filesize>
+            </Image>
+            <Image>
+                <url>J:/dam/tercer parcil/app10/imagenes/visor7.jpg</url>
+                <filesize>10725</filesize>
+            </Image>
+            <Image>
+                <url>J:/dam/tercer parcil/app10/imagenes/unam.jpg</url>
+                <filesize>115809</filesize>
+            </Image>
+            <Image>
+                <url>J:/dam/tercer parcil/app10/imagenes/visor9.jpg</url>
+                <filesize>6950</filesize>
+            </Image>
+            <Image>
+                <url>J:/dam/tercer parcil/app10/imagenes/visor2.jpg</url>
+                <filesize>241677</filesize>
+            </Image>
+            <Image>
+                <url>J:/dam/tercer parcil/app10/imagenes/visor4.png</url>
+                <filesize>13888</filesize>
+            </Image>
+            <Image>
+                <url>J:/dam/tercer parcil/app10/imagenes/inst1.jpg</url>
+                <filesize>9770</filesize>
+            </Image>
+            <Image>
+                <url>J:/dam/tercer parcil/app10/imagenes/uvm.jpg</url>
+                <filesize>7859</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
